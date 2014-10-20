@@ -1,7 +1,7 @@
 <html t:type="layout" title="Hi/Lo Guess"
   xmlns:t="http://tapestry.apache.org/schema/tapestry_5_3.xsd">
  
-  	<h1>Address Book Hi Mom 5</h1>
+  	<h1>Address Book Hi Mom 7</h1>
  
 	<ul>
 		<li><t:pagelink page="address/create">Create new address</t:pagelink></li>
